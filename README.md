@@ -64,7 +64,9 @@ if __name__ == '__main__':
     final_crack()
 ```
 3.在该目录下打开命令行（Shift + 右键 -> 在此处打开 PowerShell），执行：
-```python crack_vdh.py```
+```
+python crack_vdh.py
+```
 
 第四步：加载破解版插件
 回到 Chrome，地址栏输入 chrome://extensions/。
