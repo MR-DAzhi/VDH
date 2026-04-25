@@ -28,7 +28,7 @@ Video DownloadHelper (VDH)
 
 2. 将文件crack_vdh.py代码复制并保存到该文件中：
 
-3.在该目录下打开命令行（Shift + 右键 -> 在此处打开 PowerShell），执行：
+3. 在该目录下打开命令行（Shift + 右键 -> 在此处打开 PowerShell），执行：
 ```
 python crack_vdh.py
 ```
